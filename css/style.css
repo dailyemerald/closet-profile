@@ -1,9 +1,9 @@
-body{
-	width: 100%;
-	margin: 0;
+#title{
+	font-family: didot;
+	font-size: 90px;
 }
-#page1{
-	z-index: 1;
-	position: absolute;
+#lede{
+	font-size: 24px;
+	font-family: arial narrow;
 }
 
