@@ -25,14 +25,36 @@
 .text{
 	font-size: 18px;
 }
-#win{
-    margin-left: 15%;
+.tool{
+    z-index: 1000;
+    float: left;
     height: 30px;
     width: 30px;
     background-color: black;
-    z-index: 1000;
-    float: left;
+}
+#wine{
+    margin-left: 17%;
+    margin-top: 12%;
+}
+#choc{
+    margin-left: 25%;
+    margin-top: 10%; 
+}
+#box{
+    margin-left: 35%;
+    margin-top: 15%;
+}
+#guid{
+    margin-left: 17%;
+    margin-top: 18%;
+}
+#knif{
+    margin-left: 17%;
     margin-top: 10%;
+}
+#note{
+    margin-left: 5%;
+    margin-top: 20%;  
 }
 [data-tooltip] {
     position: relative;
@@ -50,7 +72,7 @@
 [data-tooltip]:before {
     position: absolute;
     bottom: 110%;
-    left: 150%;
+    left: 100%;
     margin-bottom: 5px;
     margin-left: -123%;
     padding: 7px;
