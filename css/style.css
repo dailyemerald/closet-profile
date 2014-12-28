@@ -28,9 +28,9 @@
 .tool{
     z-index: 1000;
     float: left;
-    height: 30px;
-    width: 30px;
-    background-color: black;
+    padding-left: 1%;
+    height: 2.5%;
+    width: 2.5%;
 }
 #wine{
     margin-left: 17%;
