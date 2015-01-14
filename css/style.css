@@ -82,16 +82,16 @@
 [data-tooltip]:before {
     position: absolute;
     bottom: 110%;
-    left: 80%;
+    left: 100%;
     margin-bottom: 5px;
-    margin-left: -115%;
+    margin-left: -130%;
     padding: 1em;
     width: 200%;
     border-radius: 3px;
     background-color: rgb(8,8,8);
     color: white;
     content: attr(data-tooltip);
-    text-align: center;
+    text-align: left;
     font-family: helvetica;
     font-size: 16px;
     line-height: 1.2;
@@ -100,7 +100,7 @@
     position: absolute;
     bottom: 110%;
     left: 50%;
-    margin-left: 5%;
+    margin-left: 8%;
     width: 0%;
     border-top: 7px solid rgb(8,8,8);
     border-right: 5px solid transparent;
