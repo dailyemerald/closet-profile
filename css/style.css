@@ -15,7 +15,7 @@
 }
 #title{
 	font-family: didot;
-	font-size: 120%;
+	font-size: 700%;
     padding-top: 5%;
 }
 #lede{
@@ -24,6 +24,11 @@
 }
 .text{
 	font-size: 18px;
+}
+.kit{
+    overflow: hidden;
+    background-size: cover;
+    height: 100%;
 }
 .tool{
     z-index: 1000;
