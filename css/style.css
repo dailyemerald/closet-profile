@@ -82,10 +82,10 @@
 [data-tooltip]:before {
     position: absolute;
     bottom: 110%;
-    left: 100%;
+    left: 80%;
     margin-bottom: 5px;
-    margin-left: -123%;
-    padding: 7px;
+    margin-left: -115%;
+    padding: 1em;
     width: 200%;
     border-radius: 3px;
     background-color: rgb(8,8,8);
