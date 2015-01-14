@@ -16,6 +16,12 @@
 #title{
 	font-family: didot;
     padding-top: 5%;
+    font-size: 110px;
+}
+@media only screen and (max-width: 320px) {
+
+#title{ font-size: 4em; }
+
 }
 #lede{
 	font-size: 24px;
